@@ -1,5 +1,4 @@
-import React from 'react';
-import { AppRegistry, React360 } from 'react-360';
+import { AppRegistry } from 'react-360';
 import Info from './src/components/Info';
 import Sphere from './src/components/Sphere';
 
